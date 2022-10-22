@@ -36,7 +36,7 @@ def son():
 
 
 
-print("изменение")
+print("изменение1")
 dlina,zdorov,uvazhenie,ves=9,100,20,30
 vyvodchar(dlina,zdorov,uvazhenie,ves)
 while uvazhenie<100:
